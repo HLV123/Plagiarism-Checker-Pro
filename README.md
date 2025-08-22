@@ -2,7 +2,10 @@
 ## Giới thiệu
 Plagiarism Checker Pro là một công cụ kiểm tra đạo văn tiên tiến được phát triển bởi **LE VAN HUNG**. Ứng dụng sử dụng Google Custom Search API để phát hiện nội dung có thể đã được sao chép từ các nguồn trực tuyến.
 
-
+![UI Screenshot](Bản%20GUI%20đẹp/UI1.png)
+![UI Screenshot](Bản%20GUI%20đẹp/UI2.png)
+![UI Screenshot](Bản%20GUI%20đẹp/UI3.png)
+![UI Screenshot](Bản%20GUI%20đẹp/UI4.png)
 
 ## Tính năng chính
 - **Phát hiện đạo văn thông minh**: Sử dụng nhiều thuật toán để tính toán độ tương tự
