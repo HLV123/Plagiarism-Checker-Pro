@@ -120,10 +120,6 @@ Search engine name: Plagiarism Checker
 ```
 https://www.googleapis.com/customsearch/v1?key=YOUR_API_KEY&cx=YOUR_CX&q=python
 ```
-2. **Ví dụ URL hoàn chỉnh:**
-```
-https://www.googleapis.com/customsearch/v1?key=AIzaSyDSdgDhkqGcRJNDGl5nFVyhYYrTa_HLzW0&cx=55d79829f6bb34f28&q=python
-```
 3. **Paste URL vào trình duyệt** và Enter
 ### Bước 14: Kiểm tra kết quả
 **✅ Thành công nếu thấy:**
